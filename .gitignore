@@ -1,0 +1,8 @@
+.env
+.DS_Store
+
+# Your source document and every generated resume stay local.
+resume-data/*
+!resume-data/resumes/
+resume-data/resumes/*
+!resume-data/resumes/.gitkeep
